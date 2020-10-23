@@ -15,7 +15,7 @@ In the second part, we will perform a deeper-dive into the information, so we ca
 ### Differences in Data by City Type 
 
 ![Summary by City Type]("analysis/Summary_data_frame.png")
-![Total Fare by City Type]("analysis/PyBer_fare_summary.png")
+![Total Fare by City Type](https://github.com/davidfashbinder/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 Comparing the city types in the DataFrame, we see that Urban cities have much higher driver counts, combined with lower average fares per ride and per driver.  Note that the average fare per ride is higher than the average fare per driver in Urban cities only.  Suburban and Rural cities each have a higher fare per driver than they do average fare per ride.  
 
